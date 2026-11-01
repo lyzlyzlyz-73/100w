@@ -1,0 +1,3 @@
+# 100w
+
+Project initialized.
